@@ -54,7 +54,7 @@ for animal in animals:
     if "a" in animal:
         print(animal)
 
-# List Comprehension
+# find square of a given list with list Comprehension
 squares = [i*i for i in range(1, 11)]
 print(squares)
 
@@ -105,3 +105,12 @@ for num in numbers:
     if num not in unique:
         unique.append(num)
 print("Without duplicates:", unique)
+
+# count votes
+votes = ["yes", "no", "yes", "yes", "no"]
+
+yes_count = votes.count("yes")
+no_count = votes.count("no")
+
+print("Yes:", yes_count)
+print("No:", no_count)
