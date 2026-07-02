@@ -9,7 +9,7 @@ I'm learning Python to strengthen my data analysis skills and build real-world p
 ## Roadmap
 
 - ✅ Lists
-- ⏳ Tuples
+- ✅ Tuples
 - ⏳ Sets
 - ⏳ Dictionaries
 - ⏳ Functions
