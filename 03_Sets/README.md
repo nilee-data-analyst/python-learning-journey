@@ -1,7 +1,7 @@
 
 # Python Sets
 
-## 📖 Overview
+## Overview
 
 This folder contains my notes, examples, practice questions, and experiments on **Python Sets** as part of my Python learning journey.
 
@@ -9,7 +9,7 @@ A **set** is an unordered, mutable collection of unique elements. Sets are commo
 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 
 - Creating Sets
 - Accessing Set Items
@@ -32,13 +32,13 @@ A **set** is an unordered, mutable collection of unique elements. Sets are commo
 
 ---
 
-## 📂 Files in this Folder
+## Files in this Folder
 
-### 📄 01_examples.py
+### 01_examples.py
 
 Contains simple examples demonstrating each set concept and method.
 
-### 📄 02_practice_questions.py
+### 02_practice_questions.py
 
 Contains beginner, intermediate, advanced, and real-world practice problems with solutions.
 
@@ -51,7 +51,7 @@ Topics include:
 - Subset and superset problems
 - Interview-style questions
 
-### 📄 03_experiments.py
+### 03_experiments.py
 
 Contains experiments to understand how sets behave.
 
@@ -65,7 +65,7 @@ Experiments include:
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 - Sets store only unique values.
 - Sets are unordered and cannot be accessed using indexes.
@@ -75,7 +75,7 @@ Experiments include:
 
 ---
 
-## 📌 Real-World Applications
+## Real-World Applications
 
 Python sets are widely used in data analysis for:
 
@@ -89,7 +89,7 @@ Python sets are widely used in data analysis for:
 
 ---
 
-## 🚀 Skills Practiced
+## Skills Practiced
 
 - Problem Solving
 - Logical Thinking
