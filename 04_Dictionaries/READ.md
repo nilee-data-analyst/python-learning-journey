@@ -35,4 +35,4 @@
 
 ## Status
 
-Completed
+Completed ✔️
