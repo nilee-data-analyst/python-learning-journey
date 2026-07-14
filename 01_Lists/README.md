@@ -24,4 +24,4 @@
 
 ## Status
 
-CompletedS
+Completed
