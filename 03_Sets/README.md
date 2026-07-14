@@ -100,6 +100,10 @@ Python sets are widely used in data analysis for:
 
 ---
 
+## 🎯 Learning Goal
+
+This module is part of my Python Learning Journey, where I am building a strong foundation in Python for Data Analytics, Automation, and Data Science.
+
 ## ✅ Status
 
 Completed ✔️
