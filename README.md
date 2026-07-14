@@ -11,7 +11,9 @@ I'm learning Python to strengthen my data analysis skills and build real-world p
 - ✅ Lists
 - ✅ Tuples
 - ✅ Sets
-- ⏳ Dictionaries
+- ✅ Dictionaries
+- ✅ Conditional statements
+- ✅ Loops
 - ⏳ Functions
 
 ## Repository Structure
@@ -24,7 +26,11 @@ I'm learning Python to strengthen my data analysis skills and build real-world p
 
 04_Dictionaries
 
-05_Functions
+05_Conditional statements
+
+06_Loops
+
+07_Functions
 
 Mini_Projects
 
