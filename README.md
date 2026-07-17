@@ -28,9 +28,11 @@ I'm learning Python to strengthen my data analysis skills and build real-world p
 
 05_Conditional statements
 
-06_Loops
+06_Match statement
 
-07_Functions
+07_Loops
+
+08_Functions
 
 Mini_Projects
 
