@@ -14,7 +14,7 @@ I'm learning Python to strengthen my data analysis skills and build real-world p
 - ✅ Dictionaries
 - ✅ Conditional statements
 - ✅ Loops
-- ⏳ Functions
+- ✅  Functions
 
 ## Repository Structure
 
